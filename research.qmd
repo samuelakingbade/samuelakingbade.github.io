@@ -1,0 +1,84 @@
+---
+title: "Research"
+page-layout: full
+toc: false
+body-classes: profile-page
+---
+
+::: {.profile-layout}
+::: {.profile-column}
+{{< include includes/profile-sidebar.html >}}
+:::
+
+::: {.page-content}
+
+## Peer-Reviewed Publications
+
+- **“Null-Validated Topological Signatures of Financial Market Dynamics.”** *Communications in Nonlinear Science and Numerical Simulation*, vol. 163, 2026, 110630.
+
+- **“Why Topological Data Analysis Detects Financial Bubbles?”** (with M. Gidea, M. Manzi, and V. Nateghi). *Communications in Nonlinear Science and Numerical Simulation*, vol. 128, 2024, 107665.
+
+- **“Arnold Diffusion in a Model of Dissipative System.”** (with M. Gidea and T. M.-Seara). *SIAM Journal on Applied Dynamical Systems*, vol. 22, no. 3, 2023.
+
+- **“Analysis of the Generalized Inverse Polynomial Scheme to Initial Value Problems.”** (with O. E. Abolarin). *FUOYE Journal of Engineering and Technology*, vol. 3, no. 2, 2018.
+
+- **“Derivation and Application of Fourth Stage Inverse Polynomial Scheme to Initial Value Problems.”** (with O. E. Abolarin). *IAENG International Journal of Applied Mathematics*, vol. 47, no. 4, 2017.
+
+- **“A New Numerical Method for the Solution of Initial Value Problems.”** (with O. E. Abolarin). *Nigerian Journal of Mathematics and Applications*, vol. 24, 2015.
+
+## Manuscript in Preparation
+- **“Topological Inference of Neural Oscillation Mechanisms”** (with D.B. Forger and B.O. Watson).
+
+## Works in Progress
+- **“Topological Analysis of Longitudinal Behavioral Dynamics”** (with D.B. Forger and B.O. Watson).
+
+- **“Arnold Diffusion in Conformally Symplectic Systems”** (with M. Gidea and T. M.-Seara).
+
+- **“Drift on Annuli in Systems with Dissipation”** (with M. Gidea).
+
+
+
+
+## Selected Talks
+
+- **“Persistent Homology of Time Series.”** MIDAS Weekly Research Meeting, University of Michigan, March 2026.
+
+- **“Topological Data Analysis of Oscillatory Time Series.”** Capsule Research Talk, Department of Mathematics, University of Michigan, August 2024.
+
+- **“Instability in a Model for Dissipative Perturbations of Hamiltonian Systems.”** Oral and poster presentations, 10th Heidelberg Laureate Forum, Heidelberg, Germany, September 2023.
+
+- **“Arnold Diffusion for Dissipative Perturbations of Hamiltonian Systems (A General Case).”** Joint Mathematics Meetings, Boston, Massachusetts, January 2023.
+
+- **“Instability in a Model for Dissipative Systems.”** School on Conformal Symplectic Dynamics and Related Fields, CIRM, Marseille, France, 2023.
+
+- **“Energy Growth in Hamiltonian Systems with Small Dissipation.”** Houston Workshop on Hyperbolic Dynamical Systems, University of Houston, 2022.
+
+- **“Arnold Diffusion for Dissipative Perturbations of Hamiltonian Systems.”** Poster presentation, Midwest Early Career Conference on Dynamical Systems, University of Notre Dame, 2022.
+
+- **“A New Numerical Method for the Solution of Initial Value Problems.”** 35th Annual Conference of the Nigerian Mathematical Society, Minna, Nigeria, 2016.
+
+
+
+<!--## Additional Research Experience
+::: {.research-list}
+::: {.research-item}
+<span class="research-index">01</span>
+<div>
+
+### Graduate Capstone Research Project with S&P Global Market Intelligence
+
+**Applied Topological Data Analysis to Financial Market Time Series**  
+New York, NY · May–September 2020
+
+- Applied time-resolved topological data analysis to equity returns and five-year credit default swap spreads for 93 companies across ten U.S. economic sectors.
+- Designed Monte Carlo experiments using constrained synthetic time series and analyzed persistence-landscape statistics as potential indicators of financial instability.
+
+</div>
+:::
+::: 
+-->
+
+:::
+:::
+
+

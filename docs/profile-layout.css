@@ -1,0 +1,146 @@
+/* Reusable portrait-and-content layout for Quarto pages */
+
+.profile-page .quarto-title-block {
+  display: none;
+}
+
+.profile-page main.content,
+.profile-page #quarto-content > main {
+  max-width: 1120px;
+}
+
+.profile-layout {
+  display: grid;
+  grid-template-columns: 205px minmax(0, 1fr);
+  column-gap: clamp(2.5rem, 6vw, 5rem);
+  align-items: start;
+  margin: 2.4rem auto 4rem;
+}
+
+.profile-column {
+  grid-column: 1;
+  min-width: 0;
+}
+
+.profile-card {
+  position: sticky;
+  top: 7rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile-photo {
+  display: block;
+  width: 170px;
+  height: 170px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 50%;
+  border: 1px solid rgba(14, 43, 49, 0.12);
+  box-shadow: 0 8px 24px rgba(14, 43, 49, 0.10);
+}
+
+.profile-socials {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.55rem;
+  max-width: 190px;
+  margin-top: 1.25rem;
+}
+
+.profile-socials a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  color: var(--bs-body-color, #183038);
+  background: transparent;
+  border: 1px solid rgba(14, 43, 49, 0.28);
+  border-radius: 5px;
+  text-decoration: none;
+  transition: transform 150ms ease, background-color 150ms ease,
+    border-color 150ms ease;
+}
+
+.profile-socials a:hover,
+.profile-socials a:focus-visible {
+  color: #fff;
+  background: #173f46;
+  border-color: #173f46;
+  transform: translateY(-2px);
+}
+
+.profile-socials svg {
+  width: 21px;
+  height: 21px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1.65;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.profile-socials .icon-text-svg text {
+  fill: currentColor;
+  stroke: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 8px;
+  font-weight: 700;
+  letter-spacing: -0.2px;
+}
+
+.page-content {
+  grid-column: 2;
+  min-width: 0;
+}
+
+.page-content > h1:first-child {
+  margin-top: 0;
+  margin-bottom: 1.7rem;
+  padding-bottom: 0.65rem;
+  border-bottom: 1px solid rgba(14, 43, 49, 0.14);
+}
+
+.page-content > h2 {
+  margin-top: 2.6rem;
+}
+
+.page-content > h2:first-of-type {
+  margin-top: 1.8rem;
+}
+
+/* Prevent long links and publication titles from breaking the grid. */
+.page-content,
+.page-content p,
+.page-content li,
+.page-content a {
+  overflow-wrap: anywhere;
+}
+
+@media (max-width: 600px) {
+  .profile-layout {
+    grid-template-columns: 1fr;
+    row-gap: 2.25rem;
+    margin-top: 1.5rem;
+  }
+
+  .profile-column,
+  .page-content {
+    grid-column: 1;
+  }
+
+  .profile-card {
+    position: static;
+  }
+
+  .profile-photo {
+    width: 145px;
+    height: 145px;
+    aspect-ratio: 1 / 1;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+}

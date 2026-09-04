@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Samuel W. Akingbade"
+  description: "Academic website of Samuel W. Akingbade, applied mathematician."
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      #- href: publications.qmd
+      #  text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      #- href: cv.qmd
+      #  text: CV
+      #- href: contact.qmd
+      #  text: Contact
+  page-footer:
+    left: "© 2026 Samuel W. Akingbade"
+    right: ""
+  search: false
+
+format:
+  html:
+    theme: cosmo
+    css:
+      - styles.css
+      - profile-layout.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    # title-block-banner: "#173b42"
+    # title-block-banner-color: "#fffdf8"
+    include-after-body: includes/after-body.html
+
+resources:
+  - assets/**

@@ -1,0 +1,48 @@
+---
+page-layout: full
+toc: false
+body-classes: "home-page profile-page"
+---
+
+
+::: {.profile-layout}
+::: {.profile-column}
+{{< include includes/profile-sidebar.html >}}
+:::
+
+::: {.page-content}
+
+## About Me
+
+I am an Eric and Wendy Schmidt AI in Science Postdoctoral Research Fellow at the University of Michigan in Ann Arbor, funded by Schmidt Sciences.
+
+Previously, I held a non-tenure-track Assistant Professor appointment in the Department of Mathematics at the University of Michigan. I received my Ph.D. in Mathematical Sciences from Yeshiva University in New York, where my doctoral research was supported in part by grants from the U.S. National Science Foundation.
+
+
+## Research
+
+My research develops topological methods for the analysis of complex time series and geometric methods for the study of nonlinear dynamical systems.
+My work spans two areas of applied mathematics: topological data analysis (TDA) and Hamiltonian dynamics. In TDA, I develop methods for extracting and statistically validating geometric structure in time series, with applications to financial markets and neuroscience. In Hamiltonian dynamics, I study geometric mechanisms of instability in nearly integrable Hamiltonian systems, including systems subject to small dissipation, with a particular emphasis on Arnold diffusion.
+
+[Learn more about my work →](research.qmd){.text-link}
+
+
+## Selected Fellowships, Grants & Awards
+
+- **Schmidt Science Communication Micro-award Grant**, Principal Investigator, 2026.
+- **Eric and Wendy Schmidt AI in Science Postdoctoral Research Fellowship**, University of Michigan, 2025–present.
+- **Academic Award for Excellence**, Ph.D. Program in Mathematical Sciences, Yeshiva University, 2024.
+- **Graduate Research Assistantship and NSF-supported doctoral research**, 2020–2024; supported in part by U.S. National Science Foundation grants DMS-1814543 and DMS-2307718 (PI: Marian Gidea).
+- **Full Ph.D. Scholarship**, Yeshiva University, New York, 2020–2024.
+
+
+## Media Coverage
+
+- [“Mathematical Model Anticipates Bubbles, Crashes in Bitcoin Industry”](https://www.yu.edu/news/katz/mathematical-model-anticipates-bubbles-crashes-bitcoin-industry) — Yeshiva University, 2024
+- [“Math Ph.D. Candidate Invited to Prestigious Forum”](https://www.yu.edu/news/2023/11/18/math-phd-candidate-one-only-30-young-researchers-invited-prestigious-forum) — Yeshiva University, 2023
+- [“Mathematics Student Modeling an Unusual Kind of Natural Energy”](https://www.yu.edu/katz-school/2022/08/31/mathematics-student-modeling-an-unusual-kind-of-natural-energy) — Yeshiva University, 2022
+- [“Announcement of Doctoral Studies”](https://main-site-cimpa-web.apps.ocp.math.cnrs.fr/en/node/6798) — CIMPA, France, 2020
+
+:::
+
+:::

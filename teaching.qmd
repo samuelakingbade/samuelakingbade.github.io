@@ -1,0 +1,48 @@
+---
+title: "Teaching"
+page-layout: full
+toc: false
+body-classes: profile-page
+---
+
+::: {.profile-layout}
+::: {.profile-column}
+{{< include includes/profile-sidebar.html >}}
+:::
+
+::: {.page-content}
+
+
+## Teaching Experience
+
+### University of Michigan
+
+**Assistant Professor (Non-Tenure-Track; Postdoctoral Appointment)**  
+Department of Mathematics · 2024–2025
+
+::: {.tag-list}
+<span>Linear Algebra</span><span>Calculus II</span>
+:::
+
+
+
+### Yeshiva University
+
+**Adjunct Instructor of Mathematics and Graduate Student Assistant**  
+Department of Mathematics · 2020–2024
+
+::: {.tag-list}
+<span>Multivariable Calculus</span><span>Calculus II</span><span>Calculus I</span><span>Precalculus</span><span>Fundamentals of Calculus</span>
+:::
+
+### Federal University Oye-Ekiti
+
+**Lecturer of Mathematics and Mathematics Instructor**  
+Department of Mathematics · 2014–2019
+
+::: {.tag-list}
+<span>Real Analysis I–II</span><span>Abstract Algebra I</span><span>Ordinary Differential Equations II</span><span>Numerical Analysis I</span><span>Statistics</span><span>Calculus</span><span>Geometry</span><span>Vectorial Mechanics</span><span>Analytical Dynamics I</span><span>Mathematical Packages and Programming</span>
+:::
+
+:::
+:::
