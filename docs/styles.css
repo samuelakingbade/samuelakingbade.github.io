@@ -80,6 +80,11 @@ h3 {
 
 /* Navbar */
 
+.navbar > .container-fluid {
+  max-width: 1120px;
+  margin-inline: auto;
+}
+
 .navbar {
   min-height: 74px;
   padding: 0.55rem clamp(1.1rem, 4vw, 4.7rem);
