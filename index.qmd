@@ -16,7 +16,7 @@ body-classes: "home-page profile-page"
 
 I am an Eric and Wendy Schmidt AI in Science Postdoctoral Research Fellow at the University of Michigan in Ann Arbor, funded by Schmidt Sciences.
 
-Previously, I held a non-tenure-track Assistant Professor appointment in the Department of Mathematics at the University of Michigan. I received my Ph.D. in Mathematical Sciences from Yeshiva University in New York, where my doctoral research was supported in part by grants from the U.S. National Science Foundation.
+Previously, I held a postdoctoral appointment as a non-tenure-track Assistant Professor in the Department of Mathematics at the University of Michigan. I received my Ph.D. in Mathematical Sciences from Yeshiva University in New York, where my doctoral research was supported in part by grants from the U.S. National Science Foundation.
 
 
 ## Research
