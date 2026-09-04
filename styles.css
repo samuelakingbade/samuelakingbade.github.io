@@ -761,3 +761,41 @@ main.content > h2 {
 .navbar-toggler-icon {
   filter: invert(1) brightness(2);
 }
+
+
+@media (max-width: 720px) {
+
+  /* Allow navbar to use two rows on phones */
+  .navbar > .container-fluid {
+    flex-wrap: wrap;
+  }
+
+  /* Show full name */
+  .navbar-brand {
+    max-width: none;
+    overflow: visible;
+    text-overflow: clip;
+    white-space: nowrap;
+    font-size: 1rem;
+  }
+
+  /* Put navigation on its own row */
+  .navbar-collapse {
+    display: flex !important;
+    flex-basis: 100%;
+    width: 100%;
+  }
+
+  /* Keep Home / Research / Teaching horizontal */
+  .navbar-nav {
+    flex-direction: row !important;
+    width: 100%;
+    justify-content: flex-end;
+    align-items: center;
+  }
+
+  .navbar-nav .nav-link {
+    font-size: 0.75rem;
+    padding: 0.35rem 0.45rem !important;
+  }
+}

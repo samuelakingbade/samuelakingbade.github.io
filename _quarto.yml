@@ -7,6 +7,7 @@ website:
   description: "Academic website of Samuel W. Akingbade, applied mathematician."
   navbar:
     pinned: true
+    collapse: false
     right:
       - href: index.qmd
         text: Home
