@@ -69,8 +69,8 @@ h4 {
 }
 
 h2 {
-  font-size: clamp(2rem, 4vw, 2.3rem);
-  line-height: 1.08;
+  font-size: clamp(1.8rem, 3vw, 2.1rem);
+  line-height: 1.12;
   margin-top: 1.1em;
 }
 
