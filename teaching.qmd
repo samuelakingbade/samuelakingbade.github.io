@@ -11,6 +11,7 @@ body-classes: profile-page
 :::
 
 ::: {.page-content}
+I have more than a decade of experience teaching undergraduate mathematics in the United States and internationally. I aim to make mathematical ideas both precise and accessible, combining clear exposition with active problem solving, visual intuition, and applications that help students develop both mathematical understanding and confidence.
 
 
 ## Teaching Experience
