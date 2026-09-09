@@ -22,7 +22,7 @@ I have more than a decade of experience teaching undergraduate mathematics in th
 Department of Mathematics · 2024–2025
 
 ::: {.tag-list}
-<span>Linear Algebra</span><span>Calculus II</span>
+<span>Linear Algebra (Proof-based)</span><span>Calculus II</span>
 :::
 
 
