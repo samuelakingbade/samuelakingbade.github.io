@@ -25,12 +25,12 @@ My research develops topological methods for the analysis of complex time series
 My work spans two areas of applied mathematics: topological data analysis (TDA) and Hamiltonian dynamics. In TDA, I develop methods for extracting and statistically validating geometric structure in time series, with applications to financial markets and neuroscience. In Hamiltonian dynamics, I study geometric mechanisms of instability in nearly integrable Hamiltonian systems, including systems subject to small dissipation, with a particular emphasis on Arnold diffusion. [Learn more about my work→](research.qmd)
 
 
-## Selected Fellowships, Grants & Awards
+## Selected Funding, Fellowships & Awards
 
 - **Schmidt Science Communication Micro-award Grant**, Principal Investigator, 2026.
 - **Eric and Wendy Schmidt AI in Science Postdoctoral Research Fellowship**, University of Michigan, 2025–present.
 - **Academic Award for Excellence**, Ph.D. Program in Mathematical Sciences, Yeshiva University, 2024.
-- **Graduate Research Assistantship and NSF-supported doctoral research**, 2020–2024; supported in part by U.S. National Science Foundation grants DMS-1814543 and DMS-2307718 (PI: Marian Gidea).
+- **Graduate Research Assistantship**, 2020–2024; doctoral research funded in part through U.S. National Science Foundation grants (PI: Marian Gidea).
 - **Full Ph.D. Scholarship**, Yeshiva University, New York, 2020–2024.
 
 
