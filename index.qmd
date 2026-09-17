@@ -39,7 +39,7 @@ My work spans two areas of applied mathematics: topological data analysis (TDA) 
 - [“Mathematical Model Anticipates Bubbles, Crashes in Bitcoin Industry”](https://www.yu.edu/news/katz/mathematical-model-anticipates-bubbles-crashes-bitcoin-industry) — Yeshiva University, 2024
 - [“Math Ph.D. Candidate Invited to Prestigious Forum”](https://www.yu.edu/news/2023/11/18/math-phd-candidate-one-only-30-young-researchers-invited-prestigious-forum) — Yeshiva University, 2023
 - [“Mathematics Student Modeling an Unusual Kind of Natural Energy”](https://www.yu.edu/katz-school/2022/08/31/mathematics-student-modeling-an-unusual-kind-of-natural-energy) — Yeshiva University, 2022
-- [“Announcement of Doctoral Studies”](https://main-site-cimpa-web.apps.ocp.math.cnrs.fr/en/node/6798) — CIMPA, France, 2020
+<!-- - [“Announcement of Doctoral Studies”](https://main-site-cimpa-web.apps.ocp.math.cnrs.fr/en/node/6798) — CIMPA, France, 2020 -->
 
 :::
 
