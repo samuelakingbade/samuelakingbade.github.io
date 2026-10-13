@@ -26,14 +26,14 @@ body-classes: profile-page
 
 - **“A New Numerical Method for the Solution of Initial Value Problems.”** (with O. E. Abolarin). *Nigerian Journal of Mathematics and Applications*, vol. 24, 2015.
 
-## Manuscript in Preparation
+## Manuscripts in Preparation
 - **“Topological Inference of Gamma Oscillation Mechanisms”** (with D.B. Forger and B.O. Watson).
 
 - **“Arnold Diffusion in Conformally Symplectic Systems”** (with M. Gidea and T. M.-Seara).
 
 - **“Drift on Annuli in Systems with Dissipation”** (with M. Gidea).
 
-## Works in Progress
+## Work(s) in Progress
 - **“Topological Analysis of Longitudinal Behavioral Dynamics”** (with D.B. Forger and B.O. Watson).
 
 
